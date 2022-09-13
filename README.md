@@ -10,4 +10,7 @@ Data Structures lab work of JEC CSE A
  ----------------------------------------------------------------------------------------------------------------------         
 Teachers incharge / Mentors - Mr. Shaiju Paul
                             - Mr. Anil Antony 
-
+---------------------------------------------------------------------------------------------------------------------
+program  number    -     program name
+     1             -     linear search 
+     2             -     bubble sort 
