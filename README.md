@@ -20,5 +20,5 @@ Mr. Anil Antony
 --------------------------------------------------------------------------------------------------------------------- 
                                                  Programs List
 ---------------------------------------------------------------------------------------------------------------------
-     Program 1    -     linear search 
-     Program 2    -     bubble sort 
+     Program 1    -     linear search   - 01_linearsearch.c
+     Program 2    -     bubble sort     - 02_bubblessort.c
