@@ -24,3 +24,5 @@ Mr. Anil Antony
 |-------------|-------------|---------|
 |Program 1    |    linear search   |01_linearsearch.c|
 |Program 2    |    bubble sort     |02_bubblessort.c|
+|Program 3    |    binary search     |03_bubblessort.c|
+|Program 4    |    insertion sort     |04_bubblessort.c|
