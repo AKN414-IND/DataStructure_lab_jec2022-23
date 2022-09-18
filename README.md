@@ -1,4 +1,5 @@
-# DataStructure_lab_jec2022-23 is a public repository made by Arun K Nair and Alwin Mathew 
+# *Text DataStructure_lab-jec2022-23*
+DataStructure_lab_jec2022-23 is a public repository made by Arun K Nair and Alwin Mathew 
 purpose of the repository is to give a reference to the students on Data structures lab (CSL 201)
 Data Structures lab work of JEC CSE A 
 
@@ -8,7 +9,7 @@ Data Structures lab work of JEC CSE A
 
 [![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-white)](mailto:alwinmathew.cse21@jecc.ac.in)
        
-       
+
  ----------------------------------------------------------------------------------------------------------------------         
 Teachers incharge / Mentors
 --------------------------------------------------------------------------------------------------------------------
