@@ -37,7 +37,7 @@ void print(int a[], int n)
 } 
 int main()
 {
-    int a[10],n,e;
+    int a[10],n;
     printf("Enter the limit: ");
     scanf("%d",&n);
     read(a,n);
