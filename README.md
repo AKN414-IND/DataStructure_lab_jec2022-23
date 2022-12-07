@@ -13,10 +13,3 @@ Mr. Shaiju Paul
 
 Mr. Anil Antony 
 
-# Programs List
-|program number|program name | file name |
-|-------------|-------------|---------|
-|Program 1    |    linear search   |01_linearsearch.c|
-|Program 2    |    bubble sort     |02_bubblessort.c|
-|Program 3    |    binary search     |03_BinarySearch.c|
-|Program 4    |    insertion sort     |04_InsertionSort.c|
